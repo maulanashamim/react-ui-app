@@ -5,7 +5,7 @@ class Navbar extends React.Component {
          <nav className="navbar navbar expand-lg-navbar-dark bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            Apna cart
+            react-app-demo-github
          </a>
          </div>
          </nav>
